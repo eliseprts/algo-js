@@ -1,10 +1,8 @@
-# algo-js
-
-## Algorithmics with Javascript course
+# Algorithmics with Javascript course
 
 * Solo work
 
-### Training goal
+## Training goal
 
 At the end of this training the trainee will have mastered the following aspect of JavaScript:
 * Variables
