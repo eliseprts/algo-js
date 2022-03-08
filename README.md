@@ -1,4 +1,4 @@
-# Algorithmics with Javascript course
+# THE FIELD | Algorithmics with Javascript course
 
 * Solo work
 
