@@ -1,8 +1,16 @@
 # THE FIELD | Algorithmics with Javascript course
 
-* Solo work
+_Repo created as part of the [BeCode web development training](https://becode.org/fr/apprendre/developpeur-web-junior/)
 
-## Training goal
+* Mode : solo work
+* Type of challenge : introduction
+* Duration : 5 days
+
+## Languages used
+
+* Javascript
+
+## Learning Objectives
 
 At the end of this training the trainee will have mastered the following aspect of JavaScript:
 * Variables
